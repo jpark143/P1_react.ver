@@ -1,0 +1,25 @@
+.backBtn {
+  float: left;
+}
+
+.container-ticket {
+  text-align: center;
+  box-sizing: border-box;
+  margin: auto;
+  background-color: #282c34;
+  padding: 20px;
+  border-radius: 5%;
+}
+
+.container-ticket form {
+  border: 2px solid snow;
+}
+
+.input-group {
+  padding: 20px;
+  width: 600px;
+}
+
+.reimbBtn {
+  margin: 20px;
+}

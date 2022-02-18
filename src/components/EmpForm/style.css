@@ -1,0 +1,19 @@
+.container {
+  width: 650px;
+  height: auto;
+  padding: 20px;
+  margin: auto;
+}
+
+.container h2 {
+  border-bottom: 2px solid snow;
+  text-align: center;
+}
+
+.container h4 {
+  text-align: center;
+}
+
+.form-group .btn {
+  float: right;
+}

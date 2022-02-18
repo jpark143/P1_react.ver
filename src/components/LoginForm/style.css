@@ -1,0 +1,16 @@
+.wrapper h1,
+p {
+  text-align: center;
+}
+
+.container {
+  background-color: #282c34;
+  padding: 20px;
+  border-radius: 5%;
+  width: 80%;
+}
+
+form .form-group {
+  margin: 20px;
+  padding-bottom: 20px;
+}
