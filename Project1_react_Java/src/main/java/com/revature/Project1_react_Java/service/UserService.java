@@ -18,4 +18,8 @@ public class UserService {
         return repository.findAll();
     }
 
+    public User getUserByStatus(String status){
+        return repository.getUserByStatus(status);
+    }
+
 }
